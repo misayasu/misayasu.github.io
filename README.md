@@ -46,4 +46,3 @@ July 29, 2021<br />
 
 - Markup language translation
 - Science articles translation
-- 
