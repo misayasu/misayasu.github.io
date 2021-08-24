@@ -28,3 +28,4 @@ August 18, 2021<br />
 July 29, 2021<br />
 <a href="https://www.linkedin.com/pulse/invisible-visible-misa-yasumiishi/" target="_blank">Invisible to Visible</a>
 
+
