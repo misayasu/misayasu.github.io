@@ -26,7 +26,6 @@ Regression transformation for hillslope aspect<br />
 
 **Language**<br />
 NLP (Natural Language Processing) - English and Japanese<br />
-Markup language translation
 
 **Sampling**<br />
 Subbasin-based sampling location selection
@@ -41,3 +40,10 @@ August 18, 2021<br />
 July 29, 2021<br />
 <a href="https://www.linkedin.com/pulse/invisible-visible-misa-yasumiishi/" target="_blank">Invisible to Visible</a>
 
+---
+
+### Business
+
+- Markup language translation
+- Science articles translation
+- 
