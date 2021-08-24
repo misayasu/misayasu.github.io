@@ -10,10 +10,10 @@ Environmental researcher spacialized in the relationship between topography and 
 
 ### Research
 
-* The effects of topography on radionuclide contamination in soils<br />
-* The effects of topography on gamma-ray air dose rates in radioactive contamination
-* Ontological modeling for nuclear accident data
-* NLP analysis of nuclear accident data
+- The effects of topography on radionuclide contamination in soils<br />
+- The effects of topography on gamma-ray air dose rates in radioactive contamination
+- Ontological modeling for nuclear accident data
+- NLP analysis of nuclear accident data
 
 ---
 
