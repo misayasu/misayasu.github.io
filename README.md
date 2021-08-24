@@ -15,7 +15,6 @@ Environmental researcher spacialized in the relationship between topography and 
 - Ontological modeling for nuclear accident data
 - NLP analysis of nuclear accident data
 
-
 ---
 
 ### Methodologies Explored
