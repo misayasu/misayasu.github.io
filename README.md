@@ -1,4 +1,4 @@
-## Profile
+### Profile
 
 Environmental researcher spacialized in the relationship between topography and radioactive contamination.
 
@@ -12,7 +12,7 @@ Environmental researcher spacialized in the relationship between topography and 
 
 ---
 
-## Methodologies Explored
+### Methodologies Explored
 
 GAM (Generalized Additive Models)<br />
 MARS (Multivariate Adaptive Regression Splines)<br />
@@ -20,7 +20,7 @@ NLP (Natural Language Processing) - English and Japanese<br />
 
 ---
 
-## Blog
+### Blog
 
 August 18, 2021<br />
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:6833944453737263104/" target="_blank">Topography, the quiet giant</a>
