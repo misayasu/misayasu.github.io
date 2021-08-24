@@ -1,27 +1,12 @@
-## Welcome to GitHub Pages
+# Profile
 
-You can use the [editor on GitHub](https://github.com/misayasu/misayasu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Environmental researcher spacialized in the relationship between topography and radioactive contamination.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Link[Image](img src="https://restingrock.com/img/linkedin-icon-2.svg" alt="LinkedIn Logo" width="50" height="50"/)](https://www.linkedin.com/in/misay/" target="_blank">
+<a href="https://www.researchgate.net/profile/Misa-Yasumiishi" target="_blank"><img src="https://restingrock.com/img/researchgate_icon_130843.png" alt="ResearchGate" width="50" height="50"/></a>
+<a href="https://www.buffalo.edu/" target="_blank"><img src="https://restingrock.com/img/university-at-buffalo.svg" alt="University at Buffalo" width="50" height="50"/></a>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
