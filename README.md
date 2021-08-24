@@ -16,15 +16,16 @@ Environmental researcher spacialized in the relationship between topography and 
 
 ### Methodologies Explored
 
-**Statistics**
+**Statistics**<br />
 GAM (Generalized Additive Models)<br />
 MARS (Multivariate Adaptive Regression Splines)<br />
 Regression transformation for hillslope aspect<br />
 
-**Language**
+**Language**<br />
 NLP (Natural Language Processing) - English and Japanese<br />
+Markup language translation
 
-**Sampling**
+**Sampling**<br />
 Subbasin-based sampling location selection
 
 ---
