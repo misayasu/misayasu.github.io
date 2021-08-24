@@ -16,7 +16,7 @@ Environmental researcher spacialized in the relationship between topography and 
 
 GAM (Generalized Additive Models)<br />
 MARS (Multivariate Adaptive Regression Splines)<br />
-Regression transformation for hillslope aspect
+Regression transformation for hillslope aspect<br />
 NLP (Natural Language Processing) - English and Japanese<br />
 
 ---
