@@ -1,4 +1,4 @@
-### Profile
+### M. Yasumiishi Profile
 
 Environmental researcher spacialized in the relationship between topography and radioactive contamination.
 
@@ -16,6 +16,7 @@ Environmental researcher spacialized in the relationship between topography and 
 
 GAM (Generalized Additive Models)<br />
 MARS (Multivariate Adaptive Regression Splines)<br />
+Regression transformation for hillslope aspect
 NLP (Natural Language Processing) - English and Japanese<br />
 
 ---
