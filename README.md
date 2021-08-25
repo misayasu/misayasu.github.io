@@ -1,6 +1,6 @@
 ### M. Yasumiishi Profile
 
-Environmental researcher specialized in the relationship between topography and radioactive contamination.
+Environmental researcher specialized in the relationship between topography and radioactive contamination. <a href="https://www.proquest.com/docview/2555622959/B4FF111B6DEC4388PQ/3" target=_blank>Ph.D.</a>
 
 <a href="https://www.linkedin.com/in/misay/" target="_blank"><img src="https://restingrock.com/img/linkedin-icon-2.svg" alt="LinkedIn Logo" width="50" height="50"/></a>
 <a href="https://www.researchgate.net/profile/Misa-Yasumiishi" target="_blank"><img src="https://restingrock.com/img/researchgate_icon_130843.png" alt="ResearchGate" width="50" height="50"/></a>
