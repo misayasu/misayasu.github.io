@@ -11,8 +11,8 @@ Environmental researcher specialized in the relationship between topography and 
 
 - The effects of topography on radionuclide contamination in soils (<a href="https://esurf.copernicus.org/articles/9/861/2021/" target="_blank">article</a>)
 - The effects of topography on gamma-ray air dose rates in radioactive contamination
-- Ontological modeling of nuclear accident
-- NLP analysis of nuclear accident information
+- Ontological modeling of nuclear plant accident
+- NLP analysis of information flow related to nuclear plant accident/closure
 
 ---
 
