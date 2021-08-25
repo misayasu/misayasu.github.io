@@ -44,4 +44,4 @@ July 29, 2021<br />
 ### Business
 
 - Markup language translation
-- Science articles translation
+- Science article translation
