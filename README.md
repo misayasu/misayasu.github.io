@@ -16,15 +16,18 @@ Environmental researcher specialized in the relationship between topography and 
 
 ---
 
-### Methodologies Explored
+### Methodologies Explored (_selected_)
 
 **Statistics**<br />
 GAM (Generalized Additive Models)<br />
 MARS (Multivariate Adaptive Regression Splines)<br />
-Regression transformation for hillslope aspect<br />
+Circular data transformation<br />
 
 **Language**<br />
 NLP (Natural Language Processing) - English and Japanese<br />
+
+**Validation**
+Cook's distance, Tukey HSD<br />
 
 **Sampling**<br />
 Subbasin-based sampling location selection
