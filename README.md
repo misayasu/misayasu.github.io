@@ -23,14 +23,14 @@ GAM (Generalized Additive Models)<br />
 MARS (Multivariate Adaptive Regression Splines)<br />
 Circular data transformation<br />
 
-**Language**<br />
-NLP (Natural Language Processing) - English and Japanese<br />
-
 **Validation**<br />
 Cook's distance, Tukey HSD<br />
 
 **Sampling**<br />
 Subbasin-based sampling location selection
+
+**Language**<br />
+NLP (Natural Language Processing) - English and Japanese<br />
 
 ---
 
