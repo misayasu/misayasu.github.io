@@ -26,7 +26,7 @@ Circular data transformation<br />
 **Language**<br />
 NLP (Natural Language Processing) - English and Japanese<br />
 
-**Validation**
+**Validation**<br />
 Cook's distance, Tukey HSD<br />
 
 **Sampling**<br />
