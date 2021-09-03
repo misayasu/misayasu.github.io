@@ -52,10 +52,10 @@ July 29, 2021<br />
 <div class="mdc-layout-grid">
     <div class="mdc-layout-grid__inner">
         <div class="mdc-layout-grid__cell
-                    mdc-layout-grid__cell--span-6-desktop">test
+                    mdc-layout-grid__cell--span-6">test
         </div>
         <div class="mdc-layout-grid__cell
-                    mdc-layout-grid__cell--span-6-desktop">test
+                    mdc-layout-grid__cell--span-6">test
         </div>
     </div>
 </div>
