@@ -47,7 +47,7 @@ July 29, 2021<br />
 
 ### References in social and biological impact of radioactivity
 
-These articles are not directly related to my research fields and might not be cited in them. I list them here.
+These articles are not directly related to my research fields and might not be cited in them. I list them here. The list order doesn't indicate the importance of the articles.
 
 | Social Aspects                            | Biological Impacts                             |
 | :---------------------------------------- | :--------------------------------------------- |
