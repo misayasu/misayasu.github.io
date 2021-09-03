@@ -28,6 +28,7 @@ Cook's distance, Tukey HSD<br />
 
 **Sampling**<br />
 Subbasin-based sampling location selection
+Cs contamination in soils to air dose rate conversion
 
 **Language**<br />
 NLP (Natural Language Processing) - English and Japanese<br />
