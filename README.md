@@ -19,16 +19,16 @@ Environmental researcher specialized in the relationship between topography and 
 ### Methodologies Explored (_selected_)
 
 **Statistics**<br />
-GAM (Generalized Additive Models), MARS (Multivariate Adaptive Regression Splines), Circular data transformation<br />
+GAM (Generalized Additive Models); MARS (Multivariate Adaptive Regression Splines); Circular data transformation<br />
 
 **Validation**<br />
 Cook's distance, Tukey HSD<br />
 
 **Sampling**<br />
-Subbasin-based sampling location selection, Cs contamination in soils to air dose rate conversion
+Subbasin-based sampling location selection; radiocesium depth profile to air dose rate conversion
 
 **Language**<br />
-NLP (Natural Language Processing) - English and Japanese, Markup language translation
+NLP (Natural Language Processing) - English and Japanese; Markup language translation
 
 ---
 
