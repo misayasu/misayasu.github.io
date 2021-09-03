@@ -45,7 +45,7 @@ July 29, 2021<br />
 
 These articles are not directly related to my research fields and might not be cited in them. I list them here. The list order doesn't indicate the importance of the articles.
 
-| Social Aspects                            | Biological Impacts                             |
+| Social Impacts                            | Biological Impacts                             |
 | :---------------------------------------- | :--------------------------------------------- |
 | <a href="https://www.tandfonline.com/doi/pdf/10.1080/00167428.2020.1799212?casa_token=TPgx5bkV46QAAAAA%3Ac3shZrq0ZrW4ZIw8km7HPOluGSO_pqBs4qhq-Ai7wTBnq38806Q3jhw_sY4E9zLFakMkLCutedEjo78&/" target="_blank">NUCLEAR-TO-NATURE LAND CONVERSION (Yamamoto et al. 2021)</a> | <a href="https://bmcresnotes.biomedcentral.com/track/pdf/10.1186/s13104-020-04972-z.pdf" target="_blank">Concentrations of 137Cs radiocaesium in the organs and tissues of low-dose-exposed wild Japanese monkeys (Omi et al., 2020)</a> | 
 | <a href="https://www.sciencedirect.com/science/article/pii/S0016718519302593?casa_token=CvV8-fTrR08AAAAA:yjMNHeEpaO1iwfNicscB7-MhJykexoccpf4yzemPNS-81-g_rVZ00shCVpv_KZEO-Ci5dEp2g3Gz/" target="_blank">Geographical political economy of nuclear power plant closures (Greco and Yamamoto, 2019)</a> | <a href="https://academic.oup.com/pcp/article/60/1/63/5096781/" target="_blank">Cesium Inhibits Plant Growth Primarily Through Reduction of Potassium Influx and Accumulation in Arabidopsis (Adams et al., 2018)</a> |
