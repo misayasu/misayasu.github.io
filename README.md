@@ -39,8 +39,7 @@ NLP (Natural Language Processing) - English and Japanese<br />
 | Social Aspects                            | Biological Impacts                             |
 | :---------------------------------------- | :--------------------------------------------- |
 | <a href="https://www.tandfonline.com/doi/pdf/10.1080/00167428.2020.1799212?casa_token=TPgx5bkV46QAAAAA%3Ac3shZrq0ZrW4ZIw8km7HPOluGSO_pqBs4qhq-Ai7wTBnq38806Q3jhw_sY4E9zLFakMkLCutedEjo78&/" target="_blank">NUCLEAR-TO-NATURE LAND CONVERSION (Yamamoto, et al. 2021)</a> | 
- <a href="https://bmcresnotes.biomedcentral.com/track/pdf/10.1186/s13104-020-04972-z.pdf/" target="_blank">Concentrations of 137Cs radiocaesium
-in the organs and tissues of low-dose-exposed wild Japanese monkeys (Omi et al. 2020)</a> | 
+ <a href="https://bmcresnotes.biomedcentral.com/track/pdf/10.1186/s13104-020-04972-z.pdf/" target="_blank">Concentrations of 137Cs radiocaesium in the organs and tissues of low-dose-exposed wild Japanese monkeys (Omi et al. 2020)</a> | 
 
 ---
 
