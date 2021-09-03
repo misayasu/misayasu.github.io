@@ -48,3 +48,14 @@ July 29, 2021<br />
 
 - Markup language translation
 - Science article translation
+
+<div class="mdc-layout-grid">
+    <div class="mdc-layout-grid__inner">
+        <div class="mdc-layout-grid__cell
+                    mdc-layout-grid__cell--span-6-desktop">test
+        </div>
+        <div class="mdc-layout-grid__cell
+                    mdc-layout-grid__cell--span-6-desktop">test
+        </div>
+    </div>
+</div>
