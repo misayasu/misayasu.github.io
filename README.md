@@ -31,7 +31,7 @@ NLP (Natural Language Processing) - English and Japanese; Markup language transl
 
 ---
 
-### Personal Blog
+### Personal Blogs
 
 August 18, 2021<br />
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:6833944453737263104/" target="_blank">Topography, the quiet giant</a>
