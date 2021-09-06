@@ -1,4 +1,4 @@
-### References in social and biological impact of radioactivity
+### References in social and biological impacts of radioactivity
 
 These articles are not directly related to my research fields and might not be cited in them. I list them here. The list order doesn't indicate the importance of the articles.
 
