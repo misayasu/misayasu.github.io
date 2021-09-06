@@ -1,4 +1,4 @@
-### M. Yasumiishi Profile
+### About
 
 Environmental researcher specialized in the relationship between topography and radioactive contamination. <a href="https://www.proquest.com/docview/2555622959/B4FF111B6DEC4388PQ/3" target=_blank>Ph.D.</a>
 
