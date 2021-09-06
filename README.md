@@ -29,6 +29,9 @@ Subbasin-based sampling location selection; radiocesium depth profile to air dos
 **Language**<br />
 NLP (Natural Language Processing) - English and Japanese; Markup language translation
 
+**Codes**<br />
+R, Python, HTML/CSS
+
 ---
 
 ### Personal Blogs
