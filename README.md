@@ -17,8 +17,8 @@ Physical geographer specialized in the relationship between topography and radio
 
 ### Methodologies Explored (_selected_)
 
-**Statistics**<br />
-GAM (Generalized Additive Models); MARS (Multivariate Adaptive Regression Splines); Circular data transformation<br />
+**Statistics/Visualization**<br />
+GAM (Generalized Additive Models); MARS (Multivariate Adaptive Regression Splines); Circular data transformation; R time series analysis<br />
 
 **Validation**<br />
 Cook's distance, Tukey HSD<br />
