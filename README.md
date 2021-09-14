@@ -26,11 +26,11 @@ Cook's distance, Tukey HSD<br />
 **Sampling**<br />
 Subbasin-based sampling location selection; radiocesium depth profile to air dose rate conversion
 
-**Language**<br />
-NLP (Natural Language Processing) - English and Japanese; Markup language translation
+**Language/Ontology**<br />
+NLP (Natural Language Processing) - English and Japanese; Markup language translation; Basic Formal Ontology
 
 **Codes**<br />
-R, Python, HTML/CSS
+R, Python, HTML/CSS, SQL
 
 ---
 
