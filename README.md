@@ -20,9 +20,6 @@ Physical geographer specialized in the relationship between topography and radio
 **Statistics/Visualization**<br />
 GAM (Generalized Additive Models); MARS (Multivariate Adaptive Regression Splines); Circular data transformation; R time series analysis<br />
 
-**Validation**<br />
-Cook's distance, Tukey HSD<br />
-
 **Sampling**<br />
 Subbasin-based sampling location selection; radiocesium depth profile to air dose rate conversion
 
