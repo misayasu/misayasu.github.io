@@ -40,7 +40,7 @@ August 18, 2021<br />
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:6833944453737263104/" target="_blank">Topography, the quiet giant</a>
                                                                                       
 July 29, 2021<br />
-<a href="https://misayasu.github.io/blog072921/" target="_blank">Invisible to Visible</a>
+<a href="https://misayasu.github.io/blog072921" target="_blank">Invisible to Visible</a>
 
 ---
 
