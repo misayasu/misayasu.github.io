@@ -35,6 +35,8 @@ R, Python, HTML/CSS, SQL
 ---
 
 ### Personal Blogs
+September 28, 2021<br />
+<a href="https://misayasu.github.io/blog092821" target="_blank">The new era of field sampling planning</a>
 
 August 18, 2021<br />
 <a href="https://misayasu.github.io/blog081821" target="_blank">Topography, the quiet giant</a>
