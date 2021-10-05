@@ -29,8 +29,8 @@ NLP (Natural Language Processing) - English and Japanese; Markup language transl
 **Ontology**<br />
 Basic Formal Ontology (BFO); Environmental Ontology (ENVO); Protégé
 
-**Codes**<br />
-R, Python, HTML/CSS, SQL
+**Codes/Applications**<br />
+R, Python, HTML/CSS, SQL, ArcGIS Suite, ENVI
 
 ---
 
