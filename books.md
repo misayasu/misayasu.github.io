@@ -2,7 +2,7 @@
 
 ### Book Recommendations
 
-These articles are not directly related to my research fields and might not be cited in them. I list them here. The list order doesn't indicate the importance of the articles. Omission is not intentional. [Last updated: Nov 11, 2021]<br/>
+These are the books I read and appreciated the quality of their research [Last updated: Nov 11, 2021]<br/>
 
 - <a href="https://github.com/misayasu/misayasu.github.io/issues/12#issue-1051517162" target="_blank">Atomic Accidents</a> by James Mahaffey
 - <a href="https://www.amazon.com/Three-Mile-Island-Samuel-Walker/dp/0520246837/ref=sr_1_3?keywords=three+mile+island&qid=1636684228&s=books&sr=1-3" target="_blank">Three Mile Island: A Nuclear Crisis in Historical Perspective</a> by J. Samuel Walker
