@@ -52,7 +52,7 @@ July 29, 2021<br />
 
 ---
 
-### Book recommendations (nuclear accident, environmental contamination)
+### Book recommendations (nuclear accident, environmental contamination, writing, etc.)
 
 <a href="https://misayasu.github.io/books" target="_blank">View</a>
 
