@@ -36,7 +36,7 @@ R, Python, HTML/CSS, SQL, ArcGIS Suite, ENVI
 
 ### Personal Blogs
 December 6, 2021<br />
-<a href="https://misayasu.github.io/blog120621" target="_blank">The Horror of Units</a>
+<a href="https://misayasu.github.io/blog120621" target="_blank">The horror of units</a>
 
 September 28, 2021<br />
 <a href="https://misayasu.github.io/blog092821" target="_blank">The new era of field sampling planning</a>
