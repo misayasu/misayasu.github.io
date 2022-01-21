@@ -1,6 +1,6 @@
 ### About
 
-This page is developed and maintained by M. Yasumiishi, physical geographer specialized in the relationship between topography and radioactive contamination. <a href="https://www.proquest.com/docview/2555622959/B4FF111B6DEC4388PQ/3" target=_blank>Ph.D.</a>
+This page is developed and maintained by M. Yasumiishi, physical geographer specialized in the relationship between topography and radioactive contamination. <a href="https://www.proquest.com/docview/2555622959/B4FF111B6DEC4388PQ/3" target=_blank>Ph.D.</a>. For consulting work, DBA Resting Rock Consulting.
 
 <a href="https://www.linkedin.com/in/misay/" target="_blank">LinkedIn</a> <a href="https://www.researchgate.net/profile/Misa-Yasumiishi" target="_blank">ResearchGate</a>
 
