@@ -2,7 +2,7 @@
 
 ### References in social and biological impacts of radioactivity
 
-These articles are not directly related to my research fields and might not be cited in them. I list them here. The list order doesn't indicate the importance of the articles. Omission is not intentional. [Last updated: Jan 7, 2022. New items are at the bottom)<br/>
+These articles are not directly related to my research fields and might not be cited in them. I list them here. The list order doesn't indicate the importance of the articles. Omission is not intentional. [Last updated: Jan 22, 2022. New items are at the bottom)<br/>
 
 | Social Impacts                            | Biological/Health Impacts                             |
 | :---------------------------------------- | :--------------------------------------------- |
