@@ -6,7 +6,7 @@ This page is developed and maintained by M. Yasumiishi, physical geographer spec
 
 ---
 
-### Research
+### Research Interests
 
 - The effects of topography on radionuclide contamination in soils (<a href="https://esurf.copernicus.org/articles/9/861/2021/" target="_blank">article</a>)
 - The effects of topography on gamma-ray air dose rates in radioactive contamination
