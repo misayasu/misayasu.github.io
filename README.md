@@ -8,7 +8,7 @@ This page is developed and maintained by M. Yasumiishi, physical geographer spec
 
 ### Research Interests
 
-- The effects of topography on radionuclide concetnrations in soils (<‘a href="https://esurf.copernicus.org/articles/9/861/2021/" target="_blank">article</a>)
+- The effects of topography on radionuclide concetnrations in soils (<a href="https://esurf.copernicus.org/articles/9/861/2021/" target="_blank">article</a>)
 - The effects of topography on gamma-ray air dose rates
 - Ontological modeling of nuclear incidents
 - NLP analysis of information flow related to nuclear incidents
