@@ -49,7 +49,7 @@ July 29, 2021<br />
 
 ---
 
-### References in social and biological impact of radioactivity
+### References in social and biological impact of artifitial radioactivity
 
 <a href="https://misayasu.github.io/reference" target="_blank">View</a>
 
