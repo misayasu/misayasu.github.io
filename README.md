@@ -17,11 +17,11 @@ This page is developed and maintained by M. Yasumiishi, physical geographer spec
 
 ### Methodologies Explored (_selected_)
 
-**Statistics/Visualization**<br />
-GAM (Generalized Additive Models); MARS (Multivariate Adaptive Regression Splines); Circular data transformation; R time series analysis<br />
+**Data Analysis**<br />
+GAM (Generalized Additive Models); MARS (Multivariate Adaptive Regression Splines); QCA (Qualitative Comparative Analysis); Time series analysis using R; Circular data transformation<br />
 
 **Sampling**<br />
-Subbasin-based sampling location selection; radiocesium depth profile to air dose rate conversion
+Topography-based sampling location selection; radiocesium depth profile to air dose rate conversion
 
 **Language**<br />
 NLP (Natural Language Processing) - English and Japanese; Markup language translation
