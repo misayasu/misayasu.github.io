@@ -18,7 +18,7 @@ This page is developed and maintained by M. Yasumiishi, physical geographer spec
 ### Methodologies Explored (_selected_)
 
 **Data Analysis**<br />
-GAM (Generalized Additive Models); MARS (Multivariate Adaptive Regression Splines); QCA (Qualitative Comparative Analysis); Time series analysis using R; Circular data transformation, distance calculation using R, Census API<br />
+GAM (Generalized Additive Models); MARS (Multivariate Adaptive Regression Splines); QCA (Qualitative Comparative Analysis); Time series analysis using R; Circular data transformation, Distance calculation using R, Census API<br />
 
 **Sampling**<br />
 Topography-based sampling location selection; radiocesium depth profile to air dose rate conversion
