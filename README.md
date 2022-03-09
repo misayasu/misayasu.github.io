@@ -35,6 +35,9 @@ R, Python, HTML/CSS, SQL, ArcGIS Suite, ENVI
 ---
 
 ### Personal Blogs
+March 9, 2022<br />
+<a href="https://misayasu.github.io/blog030922" target="_blank">Fukushima to Ukraine</a>
+
 December 6, 2021<br />
 <a href="https://misayasu.github.io/blog120621" target="_blank">The horror of units</a>
 
