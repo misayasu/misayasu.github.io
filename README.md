@@ -36,7 +36,7 @@ R, Python, HTML/CSS, SQL, ArcGIS Suite, ENVI
 
 ### Personal Blogs
 New: March 9, 2022<br />
-<a href="https://misayasu.github.io/blog030922" target="_blank">Fukushima to Ukraine</a>
+<a href="https://myglab.substack.com/p/fukushima-to-ukraine?s=w" target="_blank">Fukushima to Ukraine</a>
 
 Past blogs<br />
 <a href="https://myglab.substack.com/" target="_blank">on Substack</a>
