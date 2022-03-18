@@ -35,20 +35,11 @@ R, Python, HTML/CSS, SQL, ArcGIS Suite, ENVI
 ---
 
 ### Personal Blogs
-March 9, 2022<br />
+New: March 9, 2022<br />
 <a href="https://misayasu.github.io/blog030922" target="_blank">Fukushima to Ukraine</a>
 
-December 6, 2021<br />
-<a href="https://misayasu.github.io/blog120621" target="_blank">The horror of units</a>
-
-September 28, 2021<br />
-<a href="https://misayasu.github.io/blog092821" target="_blank">The new era of field sampling planning</a>
-
-August 18, 2021<br />
-<a href="https://misayasu.github.io/blog081821" target="_blank">Topography, the quiet giant</a>
-                                                                                      
-July 29, 2021<br />
-<a href="https://misayasu.github.io/blog072921" target="_blank">Invisible to Visible</a>
+Past blogs<br />
+<a href="https://myglab.substack.com/" target="_blank">on Substack</a>
 
 ---
 
