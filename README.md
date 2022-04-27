@@ -45,11 +45,9 @@ Past blogs<br />
 
 ### Fukushima-Related Research Groups (including publications)
 
-復興農学会（The Society of Agricultural Science for Farmland Restoration in Fukushima)<br />
-<a href="http://fukkou-nougaku.com/" target="_blank">View</a>
+<a href="http://fukkou-nougaku.com/" target="_blank">復興農学会（The Society of Agricultural Science for Farmland Restoration in Fukushima)</a><br />
 
-MITATE Lab.<br />
-<a href="https://mitatelab.cnrs.fr/" target="_blank">View</a>
+<a href="https://mitatelab.cnrs.fr/" target="_blank">MITATE Lab.</a><br />
 
 ---
 
