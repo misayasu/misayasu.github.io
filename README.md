@@ -43,6 +43,16 @@ Past blogs<br />
 
 ---
 
+### Fukushima-Related Research Groups (including publications)
+
+復興農学会（The Society of Agricultural Science for Farmland Restoration in Fukushima)<br />
+<a href="http://fukkou-nougaku.com/" target="_blank">View</a>
+
+MITATE Lab.<br />
+<a href="https://mitatelab.cnrs.fr/" target="_blank">View</a>
+
+---
+
 ### References in social and biological impact of artifitial radioactivity
 
 <a href="https://misayasu.github.io/reference" target="_blank">View</a>
