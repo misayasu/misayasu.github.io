@@ -10,7 +10,7 @@ This page is developed and maintained by M. Yasumiishi, physical geographer spec
 
 - The effects of topography on radionuclide concetnrations in soils (<a href="https://esurf.copernicus.org/articles/9/861/2021/" target="_blank">article</a>)
 - The effects of topography on gamma-ray air dose rates
-- Ontological modeling of nuclear incidents (<a href="https://www.researchgate.net/project/Nuclear-incident-ontology" target="_blank">project proposal</a>)
+- Ontological modeling of nuclear incidents (<a href="https://www.researchgate.net/project/Nuclear-incident-ontology/update/6212677bbe8820089e0dd80b" target="_blank">project proposal</a>)
 - NLP analysis of information flow related to nuclear incidents
 
 ---
